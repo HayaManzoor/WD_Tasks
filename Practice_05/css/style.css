@@ -1,0 +1,21 @@
+header{
+    background-color: hsl(36, 70%, 67%);
+    padding: 1%;
+}
+header nav a{
+    padding: 2%;
+    color: #000;
+    font-weight: bold;
+}
+label{
+    font-weight: bold;
+}
+#A{
+    text-align: center;
+}
+footer{
+    background-color: hsl(36, 70%, 67%);
+    padding: 1%;
+    font-weight: bold;
+    text-align: center;
+}
